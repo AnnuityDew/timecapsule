@@ -1,0 +1,12 @@
+{% extends 'tcbase.html' %}
+
+{% block title %}'s Bowling High Score
+{% endblock %}
+
+{% block description %}
+<META NAME="Description"
+	CONTENT="This is Mike Tarpey's career record in bowling for one game. Picture taken at the Landstown High Class of 2010 Lock-In at the bowling alley on base in Virginia Beach.">
+{% endblock %}
+{% block content %}
+<img src="{{ url_for('static', path='timecapsule/images/bowling200.jpg') }}">
+{% endblock %}

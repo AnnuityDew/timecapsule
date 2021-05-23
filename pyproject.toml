@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "timecapsule"
+version = "0.1.0"
+description = "Time capsule for miketarpey.com. We've come a long way since 2006..."
+authors = ["Mike Tarpey <mike@tarpey.dev>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "0.65.1"
+gunicorn = "20.1.0"
+uvicorn = "0.13.4"
+aiofiles = "0.7.0"
+Jinja2 = "3.0.1"
+
+[tool.poetry.dev-dependencies]
+black = "^21.5b1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
