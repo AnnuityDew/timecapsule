@@ -9,6 +9,7 @@ can be viewed here!">
 {% block title %} - time capsule{% endblock %}
 
 {% block header %}time capsule{% endblock %} -->
+<div id="page-style">
 <main>
 	<p>This is the time capsule.</p>
 
@@ -57,13 +58,30 @@ can be viewed here!">
 		</a>
 	</div>
 </main>
+</div>
 
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Lato:700,400);
 
 	/* most of the site*/
-	* {
+	:global(*) {
 		box-sizing: content-box;
+	}
+
+	:global(html) {
+		overflow: hidden;
+		height: 100%;
+	}
+
+	:global(body) {
+		margin: 0;
+		overflow: auto;
+		height: 100%;
+	}
+
+	:global(#page-style) {
+		overflow: auto;
+		min-height: 100vh;
 	}
 
 	main {
@@ -75,7 +93,7 @@ can be viewed here!">
 		text-align: left;
 	}
 
-	:global(body) {
+	#page-style {
 		font-family: 'Lato', sans-serif;
 		background-color: #000000;
 		color: #ffffff;

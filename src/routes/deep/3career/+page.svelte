@@ -1,170 +1,30 @@
-<nav>
-	<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
-		<tr>
-			<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-				<a
-					HREF="/deep/3career/home"
-					onMouseOver="if(document.images) document.homeMO0.src='/timecapsuledeep/images/homeMO.gif';"
-					onMouseOut="if(document.images) document.homeMO0.src='/timecapsuledeep/images/home.gif';"
-					><img
-						NAME="homeMO0"
-						SRC="/timecapsuledeep/images/home.gif"
-						WIDTH="200"
-						HEIGHT="25"
-						BORDER="0"
-					/></a
-				>
-			</td>
-		</tr>
-	</table>
-</nav>
-<!-- <header>
-	<h1>{% block header %}{% endblock %}</h1>
-</header>
-<main>
-	{% block content %}{% endblock %}
-</main> -->
+<!-- {% extends 'tcdbase1.html' %}
 
-<footer class="footerone">
-	<nav>
-		<table>
-			<tr>
-				<td>
-					<b>Career #</b>
-				</td>
+{% block title %}Mr. Man Careers - Wow, I can put words up here!{% endblock %}
 
-				<td>
-					<b>Cool Button</b>
-				</td>
-			</tr>
+{% block header %}
+<h1>Mr. Man Careers</h1>
+<img src="/timecapsuledeep/images/hpb.gif') }}">
+{% endblock %}
 
-			<tr>
-				<td> 1st Career </td>
+{% block content %} -->
+<p>Well, I (pictured right here) decided to make...</p>
 
-				<td>
-					<a href="/deep/3career/prog">
-						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
-							<tr>
-								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<a
-										HREF="/deep/3career/prog"
-										onMouseOver="if(document.images) document.cp0.src='/timecapsuledeep/images/cpMO.gif';"
-										onMouseOut="if(document.images) document.cp0.src='/timecapsuledeep/images/cp.gif';"
-										><img
-											NAME="cp0"
-											SRC="/timecapsuledeep/images/cp.gif"
-											WIDTH="200"
-											HEIGHT="25"
-											BORDER="0"
-										/></a
-									>
-								</td>
-							</tr>
-						</table>
-					</a>
-				</td>
-			</tr>
+<a href="/deep/otherhome"><img src="/timecapsuledeep/images/Me.jpg" height="225" width="300" /> </a>
 
-			<tr>
-				<td> 2nd Career </td>
+<p>
+	*ahem* I (pictured up there) am FORCED to make this home page (haha) about careers that interest
+	me, or that I might work at one day. These pages describe all three of the careers that I
+	(painstakingly) researched, and they include some little facts and statistics that may interest
+	you. And of course, there's a page meant for absolutely nothing but my own fun. That, my friends
+	(and other people) is the purpose of this site. Let's see if it turned out okay...
+</p>
 
-				<td>
-					<a href="/deep/3career/nsa">
-						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
-							<tr>
-								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<a
-										HREF="/deep/3career/nsa"
-										onMouseOver="if(document.images) document.nsa0.src='/timecapsuledeep/images/nsaMO.gif';"
-										onMouseOut="if(document.images) document.nsa0.src='/timecapsuledeep/images/nsa.gif';"
-										><img
-											NAME="nsa0"
-											SRC="/timecapsuledeep/images/nsa.gif"
-											WIDTH="200"
-											HEIGHT="25"
-											BORDER="0"
-										/></a
-									>
-								</td>
-							</tr>
-						</table>
-					</a>
-				</td>
-			</tr>
+<p>
+	Here it is...check out these three careers I chose.<br />
+</p>
 
-			<tr>
-				<td> 3rd Career </td>
-
-				<td>
-					<a href="/deep/3career/da">
-						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
-							<tr>
-								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<a
-										HREF="/deep/3career/da"
-										onMouseOver="if(document.images) document.daMO0.src='/timecapsuledeep/images/daMO.gif';"
-										onMouseOut="if(document.images) document.daMO0.src='/timecapsuledeep/images/da.gif';"
-										><img
-											NAME="daMO0"
-											SRC="/timecapsuledeep/images/da.gif"
-											WIDTH="200"
-											HEIGHT="25"
-											BORDER="0"
-										/></a
-									>
-								</td>
-							</tr>
-						</table>
-					</a>
-				</td>
-			</tr>
-
-			<tr>
-				<td> Not a Career </td>
-
-				<td>
-					<a href="/deep/3career/insanity">
-						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
-							<tr>
-								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<a
-										HREF="/deep/3career/insanity"
-										onMouseOver="if(document.images) document.insanityMO0.src='/timecapsuledeep/images/insanityMO.gif';"
-										onMouseOut="if(document.images) document.insanityMO0.src='/timecapsuledeep/images/insanity.gif';"
-										><img
-											NAME="insanityMO0"
-											SRC="/timecapsuledeep/images/insanity.gif"
-											WIDTH="200"
-											HEIGHT="25"
-											BORDER="0"
-										/></a
-									>
-								</td>
-							</tr>
-						</table>
-					</a>
-				</td>
-			</tr>
-		</table>
-	</nav>
-	<p>
-		Credit to <a href="http://www.dynamicdrive.com">Dynamic Drive</a>
-		for the cool mouse ball chain on The Page of Insanity. Thanks a lot, DD!
-	</p>
-
-	<p>
-		Also, thanks to <a href="http://www.astronomy.swin.edu.au/~pbourke/fractals/">
-			Fractals, Chaos</a
-		> for the background of The Page of Insanity.
-	</p>
-
-	<p>But credit to me for the animations you see around the site. They're all mine. :)</p>
-	<p>
-		And one final note: if you don't recognize the name of some of the colleges and institutions
-		that I talk about, you probably don't live in Virginia Beach. :)
-	</p>
-
-	<p>
-		<a href="/">Exit the time capsule</a>
-	</p>
-</footer>
+<p>
+	And for added fun, check out my <a href="/deep/otherhome"> school unassociated website.</a> (You can
+	also click on my picture to get to the site :)
+</p>
