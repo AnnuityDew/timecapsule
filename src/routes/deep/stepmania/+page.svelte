@@ -9,18 +9,16 @@
 {% block content %} -->
 
 <p>
-    <a href="http://www.stepmaniaonline.com/index.php?mod=Stepmania+Online&player=FFMMCLXIV">
-        <img src="http://esoteriq.org/statfx/FFMMCLXIV.png"></a>
+	<a href="http://www.stepmaniaonline.com/index.php?mod=Stepmania+Online&player=FFMMCLXIV">
+		<img src="http://esoteriq.org/statfx/FFMMCLXIV.png" /></a
+	>
 </p>
 
 <p>
-    This is my stat bar for the awesome DDR sim, StepMania. Played entirely on the keyboard (or a dancepad
-    if you really want to
-    hook one up), it lets you download whatever stepfiles you would like in your library. You just have to
-    do a little searching.
-    If your song isn't a stepfile, you could always make it yourself and share it with all. (I don't know
-    much about this,
-    though.) For more information, click the stat bar to take you to StepMania Online. Click "Getting
-    Started" on the left side
-    to begin. Have fun!
+	This is my stat bar for the awesome DDR sim, StepMania. Played entirely on the keyboard (or a
+	dancepad if you really want to hook one up), it lets you download whatever stepfiles you would
+	like in your library. You just have to do a little searching. If your song isn't a stepfile, you
+	could always make it yourself and share it with all. (I don't know much about this, though.) For
+	more information, click the stat bar to take you to StepMania Online. Click "Getting Started" on
+	the left side to begin. Have fun!
 </p>

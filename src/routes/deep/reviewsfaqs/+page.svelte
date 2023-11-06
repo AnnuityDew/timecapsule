@@ -9,11 +9,9 @@
 
 {% block content %} -->
 <p>
-    This will probably end up being the most informative page on my site. Hopefully someone can find some
-    use for these reviews
-    and FAQs. I'll post the FAQs in their own page, but they're also listed <a href="http://www.gamefaqs.com">here</a>.
-    The
-    reviews are here and here only. You might find a few on <a href="http://www.nintendo.com">Nintendo</a>,
-    and that's okay.
-    Thanks for reading!
+	This will probably end up being the most informative page on my site. Hopefully someone can find
+	some use for these reviews and FAQs. I'll post the FAQs in their own page, but they're also listed <a
+		href="http://www.gamefaqs.com">here</a
+	>. The reviews are here and here only. You might find a few on
+	<a href="http://www.nintendo.com">Nintendo</a>, and that's okay. Thanks for reading!
 </p>

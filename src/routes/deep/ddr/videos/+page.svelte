@@ -8,13 +8,12 @@
 {% block content %} -->
 
 <p>
-    This is where I upload all of my DDR videos: YouTube. If you haven't heard of it, you live under a rock.
+	This is where I upload all of my DDR videos: YouTube. If you haven't heard of it, you live under a
+	rock.
 </p>
 
-<p>
-    ...A gray rock. :)
-</p>
+<p>...A gray rock. :)</p>
 
 <p>
-    <a href="http://youtube.com/profile_videos?user=MasterDDR21">Watch my DDR videos!</a>
+	<a href="http://youtube.com/profile_videos?user=MasterDDR21">Watch my DDR videos!</a>
 </p>

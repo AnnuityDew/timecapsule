@@ -9,9 +9,10 @@
 {% block content %} -->
 
 <p>
-    This is where all my big and important school projects will go. For your entertainment! (Yeah, right.)
+	This is where all my big and important school projects will go. For your entertainment! (Yeah,
+	right.)
 </p>
 
 <p>
-    <a href="/deep/3careerentry">3 Careers Website</a><br>
+	<a href="/deep/3careerentry">3 Careers Website</a><br />
 </p>

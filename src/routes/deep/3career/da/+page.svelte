@@ -18,16 +18,13 @@
 	be a good job choice for me as well.
 </p>
 
-<p>
-	Travel in this job involves back and forth to and from work. That's about it.
-</p>
+<p>Travel in this job involves back and forth to and from work. That's about it.</p>
 
 <p>
-	I love all these high salary jobs...Oh, sorry. (end daydreaming) Anyway, the average yearly
-	salary for this particular job is $61,900 in the US, and $69,200 in the state of Virginia. (Man,
-	I'm starting to like this place! :) The range for the US is from $34,500 to $97,900, and
-	Virginia's range is $38,600 to $110,100. (I hated typing that number; it took me 4 tries to get
-	it right. :)
+	I love all these high salary jobs...Oh, sorry. (end daydreaming) Anyway, the average yearly salary
+	for this particular job is $61,900 in the US, and $69,200 in the state of Virginia. (Man, I'm
+	starting to like this place! :) The range for the US is from $34,500 to $97,900, and Virginia's
+	range is $38,600 to $110,100. (I hated typing that number; it took me 4 tries to get it right. :)
 </p>
 
 <p>

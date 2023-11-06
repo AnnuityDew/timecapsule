@@ -8,18 +8,16 @@
 
 {% block content %} -->
 
+<p>My collection of DDR pictures. (All taken 10/26/06 and later.)</p>
+
+<hr />
+
 <p>
-    My collection of DDR pictures. (All taken 10/26/06 and later.)
+	My prized possession: the Cobalt Flux. The best metal pad this side of wherever.
+	<img src="/timecapsuledeep/images/cobaltflux.JPG" />
 </p>
 
-<hr>
-
 <p>
-    My prized possession: the Cobalt Flux. The best metal pad this side of wherever.
-    <img src="/timecapsuledeep/images/cobaltflux.JPG">
-</p>
-
-<p>
-    This is my collection of the five PS2 DDRs. Hopefully DDR doesn't move to PS3...
-    <img src="/timecapsuledeep/images/ps2ddrcollect.JPG">
+	This is my collection of the five PS2 DDRs. Hopefully DDR doesn't move to PS3...
+	<img src="/timecapsuledeep/images/ps2ddrcollect.JPG" />
 </p>

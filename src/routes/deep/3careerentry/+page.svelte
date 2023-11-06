@@ -4,13 +4,13 @@
 
 {% block content %} -->
 <p>
-    The following page is preserved (almost) exactly the way it was when I finished it in 8th grade. Don't
-    bother telling me about broken
-    links and stuff, because I won't fix them. Gotta save those memories...
+	The following page is preserved (almost) exactly the way it was when I finished it in 8th grade.
+	Don't bother telling me about broken links and stuff, because I won't fix them. Gotta save those
+	memories...
 </p>
 
 <p>
-    Click here to enter!
-    <br>
-    <a href="/deep/3career">Enter</a>
+	Click here to enter!
+	<br />
+	<a href="/deep/3career">Enter</a>
 </p>

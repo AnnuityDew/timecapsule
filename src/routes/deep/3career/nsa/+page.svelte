@@ -9,9 +9,9 @@
 {% block content %} -->
 <p>
 	Well, they work with networks a lot (heh) in the form of local area, wide area (LAN & WAN),
-	Internet, intranet, etc. They analyze, design, test, and evaluate them. In addition, they
-	research and recommend network hardware and software. They can supervise Computer Programmers
-	as well, so I guess they're considered a level above Computer Programmers.
+	Internet, intranet, etc. They analyze, design, test, and evaluate them. In addition, they research
+	and recommend network hardware and software. They can supervise Computer Programmers as well, so I
+	guess they're considered a level above Computer Programmers.
 </p>
 
 <p>
@@ -26,16 +26,17 @@
 </p>
 
 <p>
-	For this job, the average salary in the US is $61,300 with a range of $36,800 to $95,500. And
-	just like those computer programmers, the salary in Virginia is higher with an average of
-	$66,500. Range is from $39,400 to $104,300.
+	For this job, the average salary in the US is $61,300 with a range of $36,800 to $95,500. And just
+	like those computer programmers, the salary in Virginia is higher with an average of $66,500.
+	Range is from $39,400 to $104,300.
 </p>
 
 <p>
-	This job is very similar to Computer Programmer in that most people have a bachelor's degree or more, but
-	only high school job experience is necessary.
-	And again, TCC and ATC are the 2 big ones, but there are many Internet courses, training, and
-	FAQs online that deal with this job area, too. <i>However...</i>
+	This job is very similar to Computer Programmer in that most people have a bachelor's degree or
+	more, but only high school job experience is necessary. And again, TCC and ATC are the 2 big ones,
+	but there are many Internet courses, training, and FAQs online that deal with this job area, too. <i
+		>However...</i
+	>
 </p>
 
 <p>
@@ -43,5 +44,5 @@
 	skyrocket by 55%! (In other words, 126,200 new jobs.)
 </p>
 
-For this job, you can try <a href="http://www.acinet.org/">Career InfoNet</a> (again) and
+For this job, you can try<a href="http://www.acinet.org/">Career InfoNet</a> (again) and
 <a href="http://univsource.com/">UnivSource.</a>
