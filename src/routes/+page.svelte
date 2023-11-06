@@ -9,7 +9,7 @@ can be viewed here!">
 {% block title %} - time capsule{% endblock %}
 
 {% block header %}time capsule{% endblock %} -->
-<div id="page-style">
+<div class="page-style" id="home-page-style">
 	<main>
 		<p>This is the time capsule.</p>
 
@@ -79,7 +79,7 @@ can be viewed here!">
 		height: 100%;
 	}
 
-	:global(#page-style) {
+	:global(.page-style) {
 		overflow: auto;
 		min-height: 100vh;
 	}
@@ -93,7 +93,7 @@ can be viewed here!">
 		text-align: left;
 	}
 
-	#page-style {
+	#home-page-style {
 		font-family: 'Lato', sans-serif;
 		background-color: #000000;
 		color: #ffffff;

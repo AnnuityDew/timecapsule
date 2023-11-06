@@ -8,16 +8,8 @@
 	title=""
 	description="The official home page of Mike Tarpey, UConn graduate & actuary in training."
 />
-<Header text="Mike Tarpey" />
+<Header text="Mike Tarpey" nav={true} imgfile="2014picsmall.jpg" />
 
-<Nav />
-
-<p>
-	<img src="/timecapsule/images/2014picsmall.jpg" />
-</p>
-<!-- {% endblock %}
-
-{% block content %} -->
 <p>
 	Hello! This is the personal website of yours truly, Mike Tarpey. I found myself discovering other,
 	not-me Mike Tarpeys when I Googled my name one day, and figured I'd get in on the action.

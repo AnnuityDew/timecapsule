@@ -1,9 +1,8 @@
 <script>
-	import Header from '$lib/tc/Header.svelte';
 	import Footer from '$lib/tc/Footer.svelte';
 </script>
 
-<div id="tc-page-style">
+<div class="page-style" id="tc-page-style">
 	<main>
 		<slot />
 	</main>
@@ -75,10 +74,7 @@
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
 		color: #ffffff;
 		background-color: #003092;
-	}
-
-	header {
-		text-align: center;
+		padding: 8px;
 	}
 
 	:global(#tc-page-style a:link) {
@@ -94,7 +90,7 @@
 		color: #ffffff;
 	}
 
-	img {
+	:global(img) {
 		max-width: 100%;
 	}
 </style>
