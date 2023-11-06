@@ -1,16 +1,16 @@
 <nav>
-	<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
+	<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
 
-		<TR>
-			<TD ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-				<A HREF="/deep/3career/home"
+		<tr>
+			<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
+				<a HREF="/deep/3career/home"
 					onMouseOver="if(document.images) document.homeMO0.src='/timecapsuledeep/images/homeMO.gif';"
-					onMouseOut="if(document.images) document.homeMO0.src='/timecapsuledeep/images/home.gif';"><IMG NAME="homeMO0" SRC="/timecapsuledeep/images/home.gif"
-						WIDTH="200" HEIGHT="25" BORDER="0"/></A>
-			</TD>
-		</TR>
+					onMouseOut="if(document.images) document.homeMO0.src='/timecapsuledeep/images/home.gif';"><img NAME="homeMO0" SRC="/timecapsuledeep/images/home.gif"
+						WIDTH="200" HEIGHT="25" BORDER="0"/></a>
+			</td>
+		</tr>
 
-	</TABLE>
+	</table>
 </nav>
 <!-- <header>
 	<h1>{% block header %}{% endblock %}</h1>
@@ -43,19 +43,19 @@
 
 				<td>
 					<a href="/deep/3career/prog">
-						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
+						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
 
-							<TR>
-								<TD ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<A HREF="/deep/3career/prog"
+							<tr>
+								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
+									<a HREF="/deep/3career/prog"
 										onMouseOver="if(document.images) document.cp0.src='/timecapsuledeep/images/cpMO.gif';"
-										onMouseOut="if(document.images) document.cp0.src='/timecapsuledeep/images/cp.gif';"><IMG NAME="cp0"
+										onMouseOut="if(document.images) document.cp0.src='/timecapsuledeep/images/cp.gif';"><img NAME="cp0"
 											SRC="/timecapsuledeep/images/cp.gif"
-											WIDTH="200" HEIGHT="25" BORDER="0"/></A>
-								</TD>
-							</TR>
+											WIDTH="200" HEIGHT="25" BORDER="0"/></a>
+								</td>
+							</tr>
 
-						</TABLE>
+						</table>
 					</a>
 				</td>
 
@@ -69,20 +69,20 @@
 
 				<td>
 					<a href="/deep/3career/nsa">
-						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
+						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
 
-							<TR>
-								<TD ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<A HREF="/deep/3career/nsa"
+							<tr>
+								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
+									<a HREF="/deep/3career/nsa"
 										onMouseOver="if(document.images) document.nsa0.src='/timecapsuledeep/images/nsaMO.gif';"
-										onMouseOut="if(document.images) document.nsa0.src='/timecapsuledeep/images/nsa.gif';"><IMG
+										onMouseOut="if(document.images) document.nsa0.src='/timecapsuledeep/images/nsa.gif';"><img
 											NAME="nsa0"
 											SRC="/timecapsuledeep/images/nsa.gif"
-											WIDTH="200" HEIGHT="25" BORDER="0"/></A>
-								</TD>
-							</TR>
+											WIDTH="200" HEIGHT="25" BORDER="0"/></a>
+								</td>
+							</tr>
 
-						</TABLE>
+						</table>
 					</a>
 				</td>
 
@@ -96,20 +96,20 @@
 
 				<td>
 					<a href="/deep/3career/da">
-						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
+						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
 
-							<TR>
-								<TD ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<A HREF="/deep/3career/da"
+							<tr>
+								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
+									<a HREF="/deep/3career/da"
 										onMouseOver="if(document.images) document.daMO0.src='/timecapsuledeep/images/daMO.gif';"
-										onMouseOut="if(document.images) document.daMO0.src='/timecapsuledeep/images/da.gif';"><IMG
+										onMouseOut="if(document.images) document.daMO0.src='/timecapsuledeep/images/da.gif';"><img
 											NAME="daMO0"
 											SRC="/timecapsuledeep/images/da.gif"
-											WIDTH="200" HEIGHT="25" BORDER="0"/></A>
-								</TD>
-							</TR>
+											WIDTH="200" HEIGHT="25" BORDER="0"/></a>
+								</td>
+							</tr>
 
-						</TABLE>
+						</table>
 					</a>
 
 				</td>
@@ -124,21 +124,21 @@
 
 				<td>
 					<a href="/deep/3career/insanity">
-						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
+						<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="200" HEIGHT="25">
 
-							<TR>
-								<TD ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
-									<A HREF="/deep/3career/insanity"
+							<tr>
+								<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
+									<a HREF="/deep/3career/insanity"
 										onMouseOver="if(document.images) document.insanityMO0.src='/timecapsuledeep/images/insanityMO.gif';"
-										onMouseOut="if(document.images) document.insanityMO0.src='/timecapsuledeep/images/insanity.gif';"><IMG
+										onMouseOut="if(document.images) document.insanityMO0.src='/timecapsuledeep/images/insanity.gif';"><img
 											NAME="insanityMO0"
 											SRC="/timecapsuledeep/images/insanity.gif"
-											WIDTH="200" HEIGHT="25" BORDER="0"/></A>
-								</TD>
+											WIDTH="200" HEIGHT="25" BORDER="0"/></a>
+								</td>
 
-							</TR>
+							</tr>
 
-						</TABLE>
+						</table>
 					</a>
 				</td>
 			</tr>
