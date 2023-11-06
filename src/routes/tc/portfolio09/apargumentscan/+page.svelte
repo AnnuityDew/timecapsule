@@ -1,14 +1,12 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s Writing Goals{% endblock %}
-
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is the page featuring the scan of the AP Argument featured in Mike Tarpey's Junior English Digital Portfolio.">
-{% endblock %}
-
-{% block content %} -->
+<Seo
+	title="'s AP Argumentative Essay"
+	description="This is the page featuring the scan of the AP Argument featured in Mike Tarpey's Junior English Digital Portfolio."
+/>
 <img
 	src="/timecapsule/2009portfolio/apargument.png"
-	alt="This is the page featuring the scan of the AP Argument featured in Mike Tarpey's Junior English Digital Portfolio."
+	alt="This is the scan of the AP Argument featured in Mike Tarpey's Junior English Digital Portfolio."
 />

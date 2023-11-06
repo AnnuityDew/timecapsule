@@ -1,14 +1,13 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s AP Argumentative Essay{% endblock %}
-
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is Mike Tarpey's AP Argument submitted to College Board through the AP English Language and Composition exam in the 2009 exam year.">
-{% endblock %}
-
-{% block header %} -->
-AP Argumentative Essay
+<Seo
+	title="'s AP Argumentative Essay"
+	description="This is Mike Tarpey's AP Argument submitted to College Board through the AP English Language and Composition exam in the 2009 exam year."
+/>
+<Header text="AP Argumentative Essay" />
 <p>
 	Retyped word-for-word from the green AP insert. A scan of the original rewrite can be found <a
 		href="/tc/portfolio09/apargumentscan">here</a

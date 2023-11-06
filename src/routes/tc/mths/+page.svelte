@@ -1,19 +1,15 @@
 <script>
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+	import Nav from '$lib/tc/Nav.svelte';
 	export let data;
 </script>
 
-<!-- {% extends 'tcbase.html' %}
-
-{% block title %}'s High School Career
-{% endblock %}
-
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is Mike Tarpey's high school career page, featuring all of his accomplishments as a member of Landstown High School's Class of 2010.">
-{% endblock %}
-
-{% block header %} -->Mike
-Tarpey
+<Seo
+	title="'s High School Career"
+	description="This is Mike Tarpey's high school career page, featuring all of his accomplishments as a member of Landstown High School's Class of 2010."
+/>
+<Header text="Mike Tarpey" />
 <h4>Valedictorian, Class of 2010</h4>
 
 <p>

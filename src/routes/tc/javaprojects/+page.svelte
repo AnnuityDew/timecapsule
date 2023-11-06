@@ -1,16 +1,13 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s High School Java Projects
-{% endblock %}
-
-{% block description %}
-<META NAME="Description"
-	CONTENT="These are all of Mike Tarpey's projects from his class in AP Computer Science during the 2008-09 school year.">
-{% endblock %}
-
-{% block header %}Java Applets{% endblock %}
-
-{% block content %} -->
+<Seo
+	title="'s High School Java Projects"
+	description="These are all of Mike Tarpey's projects from his class in AP Computer Science during the 2008-09 school year."
+/>
+<Header text="Java Applets" />
 
 <p>
 	<a href="/tc/javaprojects/firstapplet">First Applet</a><br />

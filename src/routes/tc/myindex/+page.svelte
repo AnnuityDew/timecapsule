@@ -1,12 +1,11 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s Index
-{% endblock %}
-
-{% block description %}
-<META NAME="Description" CONTENT="The official home page of Mike Tarpey, Senior at the University of Connecticut.">
-{% endblock %}
-{% block content %} -->
+<Seo
+	title="'s Index"
+	description="The official home page of Mike Tarpey, Senior at the University of Connecticut."
+/>
 <div id="main" style="width:1180px; margin-bottom:380;">
 	<div id="header" style="margin-bottom:30;">
 		These are all the websites I use routinely. Many of these sites can make you more productive,

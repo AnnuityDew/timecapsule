@@ -1,13 +1,12 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s High School Diploma
-{% endblock %}
+<Seo
+	title="'s High School Diploma"
+	description="This is Mike Tarpey's High School Diploma, awarded by the Virginia Beach City Public School system through Landstown High School at the commencement of the Class of 2010."
+/>
 
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is Mike Tarpey's High School Diploma, awarded by the Virginia Beach City Public School system through Landstown High School at the commencement of the Class of 2010.">
-{% endblock %}
-{% block content %} -->
 <img
 	src="/timecapsule/images/diploma.jpg"
 	alt="This is Mike Tarpey's High School Diploma, awarded by the Virginia Beach City Public School system through Landstown High School at the commencement of the Class of 2010."

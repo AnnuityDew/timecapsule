@@ -1,14 +1,13 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+	import Header from '$lib/tc/Header.svelte';
+</script>
 
-{% block title %}'s Favorite Apps{% endblock %}
-
-{% block description %}
-<META NAME="Description" CONTENT="The apps most frequently used by Mike Tarpey.">
-{% endblock %}
-
-{% block header %}My Favorite Apps{% endblock %}
-
-{% block content %} -->
+<Seo
+	title="'s Favorite Apps"
+	description="The apps most frequently used by Mike Tarpey."
+/>
+<Header text="My Favorite Apps" />
 
 <p>
 	<a href="http://www.utorrent.com">uTorrent<br /></a>

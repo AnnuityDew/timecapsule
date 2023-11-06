@@ -1,17 +1,17 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s Mom & Dad
-{% endblock %}
+<Seo
+	title="'s Mom & Dad"
+	description="This is the memorial page for the parents of Mike Tarpey, who both passed away during the course of high school's senior year."
+/>
+<Header text="Mom & Dad" />
 
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is the memorial page for the parents of Mike Tarpey, who both passed away during the course of high school's senior year.">
-{% endblock %}
-
-{% block header %} -->
-Mom & Dad
 <h4>Cynthia Marie Tarpey, died July 1st, 2009</h4>
 <h4>Michael William Tarpey, died May 11th, 2010</h4>
+
 <img src="/timecapsule/images/memorial2.jpg" />
 
 <p>
