@@ -17,3 +17,4 @@ Time capsule for miketarpey.com. We've come a long way since 2006...
 - 500MB Docker container -> instant static pages
 - static adapter
 - S3 config (updating infra)
+- [No capitalized tags allowed!](https://svelte.dev/docs/basic-markup#tags)
