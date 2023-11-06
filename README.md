@@ -15,9 +15,9 @@ Time capsule for miketarpey.com. We've come a long way since 2006...
 - "Greener" code
 - Looked at zola, didn't quite fit (reliance on Markdown)
 - Lots of `url_for` rewrites
-- Made routing better (nested folders); one html file for many awards
+- Made routing better (nested folders); one html file for many awards. [Tutorial was great here.](https://learn.svelte.dev/tutorial/layout-data)
 - Templates -> reusable components
 - 500MB Docker container -> instant static pages
-- static adapter
-- S3 config (updating infra)
+- [static adapter](https://kit.svelte.dev/docs/adapter-static)
+- S3 config (updating infra, [trailing slash](https://kit.svelte.dev/docs/page-options#trailingslash))
 - [No capitalized tags allowed!](https://svelte.dev/docs/basic-markup#tags)
