@@ -13,7 +13,7 @@
 </p>
 
 <a href="/deep/otherhome"><img
-		src="/timecapsuledeep/images/Me.jpg') }}" height=225 width=300>
+		src="/timecapsuledeep/images/Me.jpg" height=225 width=300>
 </a>
 
 <p>

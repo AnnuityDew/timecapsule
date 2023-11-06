@@ -12,5 +12,5 @@
 <p>
     Click here to enter!
     <br>
-    <a href="/deep/3careerhome">Enter</a>
+    <a href="/deep/3career">Enter</a>
 </p>
