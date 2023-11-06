@@ -1,15 +1,19 @@
-<!-- {% extends 'base.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block description %}
-<meta name="description" content="Mike Tarpey's website time capsule.
-The site has changed a lot throughout the years...pages from the past
-can be viewed here!">
-{% endblock %}
+<Seo
+	title="'s time capsule"
+	description="Mike Tarpey's website time capsule.
+	The site has changed a lot throughout the years...pages from the past
+	can be viewed here!"
+/>
 
-{% block title %} - time capsule{% endblock %}
 
-{% block header %}time capsule{% endblock %} -->
 <div class="page-style" id="home-page-style">
+	<header>
+		<h1>time capsule</h1>
+	</header>
 	<main>
 		<p>This is the time capsule.</p>
 
@@ -84,7 +88,7 @@ can be viewed here!">
 		min-height: 100vh;
 	}
 
-	main {
+	header, main {
 		max-width: 800px;
 		padding-left: 20px;
 		padding-right: 20px;
