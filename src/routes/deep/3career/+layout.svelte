@@ -3,7 +3,7 @@
 		<tr>
 			<td ROWSPAN="1" COLSPAN="1" WIDTH="200" HEIGHT="25">
 				<a
-					HREF="/deep/3career/home"
+					HREF="/deep/3career"
 					onMouseOver="if(document.images) document.homeMO0.src='/timecapsuledeep/images/homeMO.gif';"
 					onMouseOut="if(document.images) document.homeMO0.src='/timecapsuledeep/images/home.gif';"
 					><img
