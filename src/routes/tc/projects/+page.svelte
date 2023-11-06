@@ -9,15 +9,18 @@
 
 {% block header %}-->
 <script>
-	import Header from "$lib/tc/Header.svelte";
-	import Seo from "$lib/tc/SEO.svelte";
-	import Nav from "$lib/tc/Nav.svelte";
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+	import Nav from '$lib/tc/Nav.svelte';
 </script>
 
-<Seo title="'s Projects" description="The official home page of Mike Tarpey, UConn graduate & actuary in training."/>
-<Header text="Mike Tarpey"/>
+<Seo
+	title="'s Projects"
+	description="The official home page of Mike Tarpey, UConn graduate & actuary in training."
+/>
+<Header text="Mike Tarpey" />
 
-<Nav/>
+<Nav />
 
 <p>
 	Please make sure you cite correctly if you'd like to use something from my papers in a work of

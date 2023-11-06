@@ -1,13 +1,16 @@
 <script>
-	import Header from "$lib/tc/Header.svelte";
-	import Seo from "$lib/tc/SEO.svelte";
-	import Nav from "$lib/tc/Nav.svelte";
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+	import Nav from '$lib/tc/Nav.svelte';
 </script>
 
-<Seo title="" description="The official home page of Mike Tarpey, UConn graduate & actuary in training."/>
-<Header text="Mike Tarpey"/>
+<Seo
+	title=""
+	description="The official home page of Mike Tarpey, UConn graduate & actuary in training."
+/>
+<Header text="Mike Tarpey" />
 
-<Nav/>
+<Nav />
 
 <p>
 	<img src="/timecapsule/images/2014picsmall.jpg" />

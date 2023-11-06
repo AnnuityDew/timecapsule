@@ -22,7 +22,7 @@
 	<h1>TODO dynamic?</h1>
 </header>
 <main>
-	<slot></slot>
+	<slot />
 </main>
 
 <footer class="footerone">

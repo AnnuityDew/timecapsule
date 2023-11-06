@@ -1,15 +1,13 @@
-<!-- {% extends 'tcbase.html' %}
+<script>
+	import Header from '$lib/tc/Header.svelte';
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %}'s High School Senior English Digital Portfolio
-{% endblock %}
-
-{% block description %}
-<META NAME="Description"
-	CONTENT="This is Mike Tarpey's Senior English Digital Portfolio for the 2009-2010 school year at Landstown High School.">
-{% endblock %}
-
-{% block header %} -->
-Senior English Digital Portfolio
+<Seo
+	title="'s High School Senior English Digital Portfolio"
+	description="This is Mike Tarpey's Senior English Digital Portfolio for the 2009-2010 school year at Landstown High School."
+/>
+<Header text="Senior English Digital Portfolio" />
 <h4>Ms. Newland's AP English Literature and Composition, Block 3A</h4>
 
 <p>
