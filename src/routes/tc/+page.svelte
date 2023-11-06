@@ -1,7 +1,6 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
 	import Seo from '$lib/tc/SEO.svelte';
-	import Nav from '$lib/tc/Nav.svelte';
 </script>
 
 <Seo
