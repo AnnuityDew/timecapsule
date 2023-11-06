@@ -8,13 +8,16 @@
 {% endblock %}
 
 {% block header %}-->
-Mike Tarpey
-<h4>
-	<a href="/tc/projects" style="text-decoration: none">Projects</a> |
-	<a href="https://twitter.com/annuitydew" style="text-decoration: none">Twitter</a> |
-	<a href="http://annuitydew.tumblr.com/" style="text-decoration: none">Blog</a> |
-	<a href="/tc/myindex" style="text-decoration: none">Tarpeydex</a>
-</h4>
+<script>
+	import Header from "$lib/tc/Header.svelte";
+	import Seo from "$lib/tc/SEO.svelte";
+	import Nav from "$lib/tc/Nav.svelte";
+</script>
+
+<Seo title="'s Projects" description="The official home page of Mike Tarpey, UConn graduate & actuary in training."/>
+<Header text="Mike Tarpey"/>
+
+<Nav/>
 
 <p>
 	Please make sure you cite correctly if you'd like to use something from my papers in a work of
