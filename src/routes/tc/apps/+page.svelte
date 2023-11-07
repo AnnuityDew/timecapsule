@@ -9,6 +9,7 @@
 />
 <Header text="My Favorite Apps" />
 
+<main>
 <p>
 	<a href="http://www.utorrent.com">uTorrent<br /></a>
 	<a href="https://agilebits.com/onepassword">1Password<br /></a>
@@ -53,3 +54,4 @@
 	<a href="http://www.videolan.org/vlc/index.html">VLC<br /></a>
 	<a href="http://windirstat.info/download.html">WinDirStat<br /></a>
 </p>
+</main>

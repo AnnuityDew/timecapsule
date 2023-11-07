@@ -22,6 +22,7 @@
 
 <Nav />
 
+<main>
 <p>
 	Please make sure you cite correctly if you'd like to use something from my papers in a work of
 	your own!
@@ -94,3 +95,4 @@
 </p>
 
 <hr />
+</main>

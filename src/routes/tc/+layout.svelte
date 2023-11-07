@@ -3,10 +3,7 @@
 </script>
 
 <div class="page-style" id="tc-page-style">
-	<main>
-		<slot />
-	</main>
-
+	<slot />
 	<Footer />
 </div>
 

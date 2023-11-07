@@ -1,7 +1,6 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
 	import Seo from '$lib/tc/SEO.svelte';
-	import Nav from '$lib/tc/Nav.svelte';
 	export let data;
 </script>
 
@@ -9,13 +8,9 @@
 	title="'s High School Career"
 	description="This is Mike Tarpey's high school career page, featuring all of his accomplishments as a member of Landstown High School's Class of 2010."
 />
-<Header text="Mike Tarpey" />
-<h4>Valedictorian, Class of 2010</h4>
+<Header text="Mike Tarpey" subtext={["Valedictorian, Class of 2010"]} imgfile="gradpic.jpg" imgheight={500} imgwidth={250}/>
 
-<p>
-	<img src="/timecapsule/images/gradpic.jpg" height="500" width="250" />
-</p>
-
+<main>
 <p>
 	<b><u>High School Resume</u></b><br />
 	-Basic Technical Drawing (1 year)<br />
@@ -66,3 +61,4 @@
 	{/each}
 	-National AP Scholar for 2010<br />
 </p>
+</main>

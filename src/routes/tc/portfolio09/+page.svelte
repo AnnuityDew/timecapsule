@@ -7,13 +7,9 @@
 	title="'s High School Junior English Digital Portfolio"
 	description="This is Mike Tarpey's Junior English Digital Portfolio for the 2008-09 school year at Landstown High School."
 />
-<Header text="Junior English Digital Portfolio" />
-<h4>Mrs. Fok's AP English Language and Composition, Block 4A</h4>
+<Header text="Junior English Digital Portfolio" subtext={["Mrs. Fok's AP English Language and Composition, Block 4A"]} imgfile="mainpicture.jpg" imgheight={375} imgwidth={300}/>
 
-<p>
-	<img src="/timecapsule/images/mainpicture.jpg" height="375" width="300" />
-</p>
-
+<main>
 <p>
 	Welcome to my digital portfolio website for the 2008-2009 school year! This page is just a small
 	reflection of all the things that Mrs. Fok's classes accomplished during the nine months of junior
@@ -93,3 +89,4 @@
 	For reference, the writing goals that I composed at the beginning of the year can be found by
 	clicking <a href="/tc/portfolio09/writinggoals">here</a>.
 </p>
+</main>

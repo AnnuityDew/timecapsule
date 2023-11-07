@@ -2,6 +2,8 @@
 	export let text: string = "";
 	export let subtext: string[] = [];
 	export let imgfile: string = "";
+	export let imgwidth: number = 0;
+	export let imgheight: number = 0;
 	export let nav: boolean = false;
 	import Nav from "./Nav.svelte";
 </script>
@@ -13,7 +15,7 @@
 {/each}
 {/if}
 {#if nav}<Nav/>{/if}
-{#if imgfile}<img src="/timecapsule/images/{imgfile}"/>{/if}
+{#if imgfile}<img src="/timecapsule/images/{imgfile}" width={imgwidth || null} height={imgheight || null}>{/if}
 </header>
 
 <style>

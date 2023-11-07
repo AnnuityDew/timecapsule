@@ -7,13 +7,9 @@
 	title="'s High School Freshman English Digital Portfolio"
 	description="This is Mike Tarpey's Freshman English Digital Portfolio for the 2006-07 school year at Landstown High School."
 />
-<Header text="Freshman English Digital Portfolio" />
-<h4>Mrs. Weiss' Magnet Honors English 9, Block 4-1</h4>
+<Header text="Freshman English Digital Portfolio" subtext={["Mrs. Weiss' Magnet Honors English 9, Block 4-1"]} imgfile="2007portfoliopic.jpg" imgheight={350} imgwidth={300}/>
 
-<p>
-	<img src="/timecapsule/images/2007portfoliopic.jpg" height="350" width="300" />
-</p>
-
+<main>
 <p>
 	Welcome to my digital portfolio website for the 2006-2007 school year! Mrs. Weiss only made us
 	make a CD for the portfolio, and this was before I had a website, so I figured while I was making
@@ -43,3 +39,4 @@
 	><br />
 	<a href="/timecapsule/2007portfolio/writingmap.jpg">Writing Map</a><br />
 </p>
+</main>

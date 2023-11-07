@@ -8,6 +8,7 @@
 	description="This is Mike Tarpey's AP Argument submitted to College Board through the AP English Language and Composition exam in the 2009 exam year."
 />
 <Header text="AP Argumentative Essay" />
+<main>
 <p>
 	Retyped word-for-word from the green AP insert. A scan of the original rewrite can be found <a
 		href="/tc/portfolio09/apargumentscan">here</a
@@ -50,3 +51,4 @@
 	worse, how a person handles their adversity will undoubtedly define them, for themselves and for
 	the eyes of the world.
 </p>
+</main>

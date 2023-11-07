@@ -9,6 +9,7 @@
 />
 <Header text="Mom & Dad" subtext={["Cynthia Marie Tarpey, died July 1st, 2009", "Michael William Tarpey, died May 11th, 2010"]} imgfile="memorial2.jpg" />
 
+<main>
 <p>
 	Around May 2008, my mom was diagnosed with stage 3B lung cancer and given six to twelve months to
 	live. This isn't when my sister and I found out; it wasn't until the school year started in
@@ -150,3 +151,4 @@
 		<img src="/timecapsule/images/memorial11.png" />
 	</p>
 </center>
+</main>

@@ -9,9 +9,11 @@
 />
 <Header text="Java Applets" />
 
+<main>
 <p>
 	<a href="/tc/javaprojects/firstapplet">First Applet</a><br />
 	<a href="/tc/javaprojects/bluebird">Bluebird</a><br />
 	<a href="/tc/javaprojects/carpayment">Car Payment</a><br />
 	<a href="/tc/javaprojects/doyouknowme">Do You Know Me?</a><br />
 </p>
+</main>
