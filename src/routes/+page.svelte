@@ -54,13 +54,13 @@
 				>
 			</a>
 		</div>
-		<div class="button-div">
+		<!-- <div class="button-div">
 			<a href="/deep">
 				<sl-button class="sl-red-button" size="large" style="width: 100%"
 					>Wait...there's ANOTHER time capsule?</sl-button
 				>
 			</a>
-		</div>
+		</div> -->
 	</main>
 </div>
 
