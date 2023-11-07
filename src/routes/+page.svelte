@@ -67,22 +67,6 @@
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Lato:700,400);
 
-	/* most of the site*/
-	:global(*) {
-		box-sizing: content-box;
-	}
-
-	:global(html) {
-		overflow: hidden;
-		height: 100%;
-	}
-
-	:global(body) {
-		margin: 0;
-		overflow: auto;
-		height: 100%;
-	}
-
 	:global(.page-style) {
 		overflow: auto;
 		min-height: 100vh;
