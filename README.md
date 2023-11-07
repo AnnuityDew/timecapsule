@@ -21,3 +21,7 @@ Time capsule for miketarpey.com. We've come a long way since 2006...
 - [static adapter](https://kit.svelte.dev/docs/adapter-static)
 - S3 config (updating infra, [trailing slash](https://kit.svelte.dev/docs/page-options#trailingslash))
 - [No capitalized tags allowed!](https://svelte.dev/docs/basic-markup#tags)
+- Component refactors into `lib`
+- Figuring out styling
+- SEOally
+- HTTP redirect loop!? https://developers.cloudflare.com/ssl/troubleshooting/too-many-redirects/#encryption-mode-misconfigurations
