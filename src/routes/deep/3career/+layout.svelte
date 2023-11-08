@@ -1,12 +1,12 @@
 <script>
-	import FooterOne from "$lib/deep/FooterOne.svelte";
-import NavOne from "$lib/deep/NavOne.svelte";
-
+	import FooterOne from '$lib/deep/FooterOne.svelte';
+	import NavOne from '$lib/deep/NavOne.svelte';
 </script>
+
 <div class=".page-style" id="deep1-page-style">
-<NavOne/>
-<slot />
-<FooterOne/>
+	<NavOne />
+	<slot />
+	<FooterOne />
 </div>
 
 <style>

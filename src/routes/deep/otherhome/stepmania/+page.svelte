@@ -1,16 +1,15 @@
 <script>
-	import HeaderTwo from "$lib/deep/HeaderTwo.svelte";
-	import NavTwo from "$lib/deep/NavTwo.svelte";
+	import HeaderTwo from '$lib/deep/HeaderTwo.svelte';
+	import NavTwo from '$lib/deep/NavTwo.svelte';
 
-
-	import Seo from "$lib/deep/Seo.svelte";
-
+	import Seo from '$lib/deep/Seo.svelte';
 </script>
+
 <Seo title="Mr. Man Inc. - StepMania" description="" />
-<HeaderTwo text={"StepMania"} subtext={["The coolest simulation...ever"]}/>
+<HeaderTwo text={'StepMania'} subtext={['The coolest simulation...ever']} />
 <main>
-    <NavTwo/>
-    <hr />
+	<NavTwo />
+	<hr />
 	<p>
 		<a href="https://www.stepmaniaonline.com/index.php?mod=Stepmania+Online&player=FFMMCLXIV">
 			<img src="https://esoteriq.org/statfx/FFMMCLXIV.png" /></a
@@ -25,6 +24,4 @@
 		more information, click the stat bar to take you to StepMania Online. Click "Getting Started" on
 		the left side to begin. Have fun!
 	</p>
-
 </main>
-

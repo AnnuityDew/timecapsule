@@ -9,7 +9,6 @@
 	can be viewed here!"
 />
 
-
 <div class="page-style" id="home-page-style">
 	<header>
 		<h1>time capsule</h1>
@@ -67,7 +66,8 @@
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Lato:700,400);
 
-	header, main {
+	header,
+	main {
 		max-width: 800px;
 		padding-left: 20px;
 		padding-right: 20px;

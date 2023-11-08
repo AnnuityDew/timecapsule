@@ -11,15 +11,15 @@
 
 <main>
 	<p>
-		Hello! This is the personal website of yours truly, Mike Tarpey. I found myself discovering other,
-		not-me Mike Tarpeys when I Googled my name one day, and figured I'd get in on the action.
+		Hello! This is the personal website of yours truly, Mike Tarpey. I found myself discovering
+		other, not-me Mike Tarpeys when I Googled my name one day, and figured I'd get in on the action.
 	</p>
 
 	<p>
-		On July 1st, 2009, my mother, Cynthia Marie Tarpey, passed away at the age of 48. 10 months later,
-		on May 11th, 2010, my father, Michael William Tarpey, also passed away. I've created a page to
-		memorialize them as I remember them fondly, and if you'd like to see it, <a href="/tc/momanddad"
-			>click here</a
+		On July 1st, 2009, my mother, Cynthia Marie Tarpey, passed away at the age of 48. 10 months
+		later, on May 11th, 2010, my father, Michael William Tarpey, also passed away. I've created a
+		page to memorialize them as I remember them fondly, and if you'd like to see it, <a
+			href="/tc/momanddad">click here</a
 		>.
 	</p>
 
@@ -39,11 +39,11 @@
 
 	<p>
 		<b><u>Professional Career</u></b><br />
-		-Senior Health & Benefits Actuarial Analyst at <a href="https://www.mercer.com/">Mercer</a> since
-		October 20th, 2014<br />
+		-Senior Health & Benefits Actuarial Analyst at <a href="https://www.mercer.com/">Mercer</a>
+		since October 20th, 2014<br />
 		-Previous roles:<br />
-		&#160;+Shift Lead at <a href="https://www.walgreens.com">Walgreens</a> (March 4th, 2014 - October
-		10th, 2014)<br />
+		&#160;+Shift Lead at <a href="https://www.walgreens.com">Walgreens</a> (March 4th, 2014 -
+		October 10th, 2014)<br />
 		&#160;+Photo Specialist at Walgreens (February 9th, 2010 - March 3rd, 2014)<br />
 		&#160;+Service Clerk at Walgreens (July 10th, 2009 - February 8th, 2010)<br />
 	</p>

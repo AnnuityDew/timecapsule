@@ -3,5 +3,5 @@
 </script>
 
 <main>
-<img src="/timecapsule/images/{data.imgfile}" alt={data.imgalt} />
+	<img src="/timecapsule/images/{data.imgfile}" alt={data.imgalt} />
 </main>
