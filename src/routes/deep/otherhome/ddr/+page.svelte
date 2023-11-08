@@ -24,19 +24,19 @@
 
 		<tr>
 			<td>
-				<a href="/deep/ddr/pics">Pictures</a>
+				<a href="/deep/otherhome/ddr/pics">Pictures</a>
 			</td>
 		</tr>
 
 		<tr>
 			<td>
-				<a href="/deep/ddr/videos">Videos</a>
+				<a href="/deep/otherhome/ddr/videos">Videos</a>
 			</td>
 		</tr>
 
 		<tr>
 			<td>
-				<a href="/deep/ddr/links">Links</a>
+				<a href="/deep/otherhome/ddr/links">Links</a>
 			</td>
 		</tr>
 	</table>
