@@ -358,7 +358,7 @@
 	}
 
 	footer {
-		font-size: 1;
+		font-size: 2px;
 	}
 
 	main {
