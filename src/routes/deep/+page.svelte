@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	import Seo from "$lib/tc/Seo.svelte";
 </script>
 
@@ -7,7 +7,7 @@
 	description="Mike Tarpey's website time capsule: Deep Edition.
 	The site has changed a lot throughout the years...pages from the DEEP past
 	can be viewed here!"
-/>
+/> -->
 
 <div class="page-style" id="deep-home-page-style">
 	<header>
