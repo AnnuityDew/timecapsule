@@ -67,11 +67,6 @@
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Lato:700,400);
 
-	:global(.page-style) {
-		overflow: auto;
-		min-height: 100vh;
-	}
-
 	header, main {
 		max-width: 800px;
 		padding-left: 20px;
