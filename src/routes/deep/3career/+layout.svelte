@@ -3,7 +3,7 @@
 	import NavOne from '$lib/deep/NavOne.svelte';
 </script>
 
-<div class=".page-style" id="deep1-page-style">
+<div class="page-style" id="deep1-page-style">
 	<NavOne />
 	<slot />
 	<FooterOne />

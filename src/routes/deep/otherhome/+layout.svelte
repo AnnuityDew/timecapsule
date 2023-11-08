@@ -2,7 +2,7 @@
 	import FooterTwo from '$lib/deep/FooterTwo.svelte';
 </script>
 
-<div class=".page-style" id="deep2-page-style">
+<div class="page-style" id="deep2-page-style">
 	<slot />
 	<FooterTwo />
 </div>
