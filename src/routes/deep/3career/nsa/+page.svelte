@@ -1,12 +1,15 @@
-<!-- {% extends 'tcdbase1.html' %}
 
-{% block title %}Mr. Man Careers - Network Systems Analysts{% endblock %}
 
-{% block header %}<h1>Network Systems Analyst</h1>
-<img src="{{ url_for('static', path='timecapsuledeep/images/spinstar.gif') }}">
-{% endblock %}
+<script>
 
-{% block content %} -->
+	import HeaderOne from "$lib/deep/HeaderOne.svelte";
+	import Seo from "$lib/deep/Seo.svelte";
+
+</script>
+
+<Seo title="Mr. Man Careers - Network Systems Analysts" description="" />
+<HeaderOne text="Network Systems Analyst" imgfile="SpinStar.gif" />
+<main>
 <p>
 	Well, they work with networks a lot (heh) in the form of local area, wide area (LAN & WAN),
 	Internet, intranet, etc. They analyze, design, test, and evaluate them. In addition, they research
@@ -46,3 +49,4 @@
 
 For this job, you can try<a href="https://www.acinet.org/">Career InfoNet</a> (again) and
 <a href="https://univsource.com/">UnivSource.</a>
+</main>

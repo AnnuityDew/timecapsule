@@ -1,12 +1,24 @@
 <!-- {% extends 'tcdbase1.html' %}
 
-{% block title %}Mr. Man Careers - Database Administrator{% endblock %}
+{% block title %}{% endblock %}
 
-{% block header %}<h1>Database Administrator</h1>
+{% block header %}<h1></h1>
 <img src="{{ url_for('static', path='timecapsuledeep/images/starword.gif') }}">
 {% endblock %}
 
 {% block content %} -->
+
+
+<script>
+
+	import HeaderOne from "$lib/deep/HeaderOne.svelte";
+	import Seo from "$lib/deep/Seo.svelte";
+
+</script>
+
+<Seo title="Mr. Man Careers - Database Administrator" description="" />
+<HeaderOne text="Database Administrator" imgfile="StarWord.gif" />
+<main>
 <p>
 	These guys coordinate changes to computer databases. They test and implement the database using
 	their knowledge of database management systems. They may also deal with matters of database
@@ -48,3 +60,4 @@
 	<a href="https://www.acinet.org/">Career InfoNet</a> (yet again) and
 	<a href="https://www.vault.com/">Vault</a>.
 </p>
+</main>

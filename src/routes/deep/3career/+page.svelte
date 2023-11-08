@@ -1,13 +1,13 @@
-<!-- {% extends 'tcdbase1.html' %}
+<script>
 
-{% block title %}Mr. Man Careers - Wow, I can put words up here!{% endblock %}
+	import HeaderOne from "$lib/deep/HeaderOne.svelte";
+	import Seo from "$lib/deep/Seo.svelte";
 
-{% block header %}
-<h1>Mr. Man Careers</h1>
-<img src="/timecapsuledeep/images/hpb.gif') }}">
-{% endblock %}
+</script>
 
-{% block content %} -->
+<Seo title="Mr. Man Careers - Wow, I can put words up here!" description="" />
+<HeaderOne text="Mr. Man Careers" imgfile="hpb.gif" />
+<main>
 <p>Well, I (pictured right here) decided to make...</p>
 
 <a href="/deep/otherhome"><img src="/timecapsuledeep/images/Me.jpg" height="225" width="300" /> </a>
@@ -28,3 +28,4 @@
 	And for added fun, check out my <a href="/deep/otherhome"> school unassociated website.</a> (You can
 	also click on my picture to get to the site :)
 </p>
+</main>

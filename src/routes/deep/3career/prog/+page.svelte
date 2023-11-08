@@ -1,12 +1,14 @@
-<!-- {% extends 'tcdbase1.html' %}
 
-{% block title %}Mr. Man Careers - Computer Programmer{% endblock %}
+<script>
 
-{% block header %}<h1>Computer Programmer</h1>
-			<img src="{{ url_for('static', path='timecapsuledeep/images/RainbowStar.gif') }}">
-{% endblock %}
+	import HeaderOne from "$lib/deep/HeaderOne.svelte";
+	import Seo from "$lib/deep/Seo.svelte";
 
-{% block content %} -->
+</script>
+
+<Seo title="Mr. Man Careers - Computer Programmer" description="" />
+<HeaderOne text="Computer Programmer" imgfile="RainbowStar.gif" />
+<main>
 <p>
 	Computer Programmers convert project specifications, problem statements, and procedures into
 	logical flow charts so they can turn them into computer code. They also develop computer programs
@@ -46,3 +48,4 @@
 <p>
 	For more information about this job, try <a href="https://www.acinet.org">Career InfoNet.</a>
 </p>
+</main>
