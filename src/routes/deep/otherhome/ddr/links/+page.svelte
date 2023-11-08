@@ -1,15 +1,17 @@
-<!-- {% extends 'tcdbase2.html' %}
 
-{% block title %}Mr. Man Inc. - Dance Dance Revolution{% endblock %}
+<script>
+	import HeaderTwo from "$lib/deep/HeaderTwo.svelte";
+	import NavTwo from "$lib/deep/NavTwo.svelte";
 
-{% block header %}
-<h1>Dance Dance Revolution</h1>
-<h5>"DDR, MAX...Two!!!"</h5>
-{% endblock %}
 
-{% block content %}
- -->
+	import Seo from "$lib/deep/Seo.svelte";
 
+</script>
+<Seo title="Mr. Man Inc. - Dance Dance Revolution" description="" />
+<HeaderTwo text={"Dance Dance Revolution"} subtext={["DDR, MAX...Two!!!"]}/>
+<main>
+    <NavTwo/>
+    <hr />
 <p>Here's all the DDR links I can come up with. I'll try to find new links whenever I can.</p>
 
 <hr />
@@ -41,3 +43,4 @@
 		</td>
 	</tr>
 </table>
+</main>

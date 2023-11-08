@@ -1,13 +1,16 @@
-<!-- {% extends 'tcdbase2.html' %}
+<script>
+	import HeaderTwo from "$lib/deep/HeaderTwo.svelte";
+	import NavTwo from "$lib/deep/NavTwo.svelte";
 
-{% block title %}Mr. Man Inc. - Reviews & FAQs{% endblock %}
 
-{% block header %}
-<h1>Reviews & FAQs</h1>
-<h5>They might help someone...maybe</h5>
-{% endblock %}
+	import Seo from "$lib/deep/Seo.svelte";
 
-{% block content %} -->
+</script>
+<Seo title="Mr. Man Inc. - Reviews & FAQs" description="" />
+<HeaderTwo text={"Reviews & FAQs"} subtext={["They might help someone...maybe"]}/>
+<main>
+    <NavTwo/>
+    <hr />
 <p>
 	This will probably end up being the most informative page on my site. Hopefully someone can find
 	some use for these reviews and FAQs. I'll post the FAQs in their own page, but they're also listed <a
@@ -15,3 +18,4 @@
 	>. The reviews are here and here only. You might find a few on
 	<a href="https://www.nintendo.com">Nintendo</a>, and that's okay. Thanks for reading!
 </p>
+</main>

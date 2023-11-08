@@ -1,6 +1,6 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SEO.svelte';
+	import Seo from '$lib/tc/Seo.svelte';
 </script>
 
 <Seo

@@ -10,7 +10,7 @@
 {% block header %}-->
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SEO.svelte';
+	import Seo from '$lib/tc/Seo.svelte';
 	import Nav from '$lib/tc/Nav.svelte';
 </script>
 
