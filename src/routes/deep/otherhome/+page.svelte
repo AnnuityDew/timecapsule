@@ -1,7 +1,7 @@
 <script>
 	import HeaderTwo from '$lib/deep/HeaderTwo.svelte';
 	import NavTwo from '$lib/deep/NavTwo.svelte';
-	import Seo from '$lib/deep/SEO.svelte';
+	import Seo from '$lib/deep/SeoDeep.svelte';
 </script>
 
 <Seo title="" description="" />

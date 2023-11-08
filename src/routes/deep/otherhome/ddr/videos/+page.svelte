@@ -2,7 +2,7 @@
 	import HeaderTwo from '$lib/deep/HeaderTwo.svelte';
 	import NavTwo from '$lib/deep/NavTwo.svelte';
 
-	import Seo from '$lib/deep/Seo.svelte';
+	import Seo from '$lib/deep/SeoDeep.svelte';
 </script>$lib/deep/SEO.svelte
 
 <Seo title="Mr. Man Inc. - Dance Dance Revolution" description="" />
