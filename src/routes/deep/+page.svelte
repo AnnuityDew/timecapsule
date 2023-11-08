@@ -1,11 +1,19 @@
-<!-- {% extends 'base.html' %}
+<script>
+	import Seo from '$lib/tc/SEO.svelte';
+</script>
 
-{% block title %} - time capsule deep{% endblock %}
+<Seo
+	title="'s DEEP time capsule"
+	description="Mike Tarpey's website time capsule: Deep Edition.
+	The site has changed a lot throughout the years...pages from the DEEP past
+	can be viewed here!"
+/>
 
-{% block header %}time capsule deep{% endblock %}
-
-{% block content %} -->
-<div id="page-style">
+<div class="page-style" id="deep-home-page-style">
+	<header>
+		<h1>time capsule deep</h1>
+	</header>
+	<main>
 	<p>"This isn't just any time capsule. This is...the ADVANCED time capsule."</p>
 
 	<p>Written entirely in my 8th grade Advanced Computers class (shoutout to Mrs. Potter).</p>
@@ -21,12 +29,13 @@
 			>
 		</a>
 	</div>
+</main>
 </div>
 
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Lato:700,400);
 
-	#page-style {
+	#deep-home-page-style {
 		font-family: 'Lato', sans-serif;
 		background-color: #000000;
 		color: #ffffff;
@@ -34,7 +43,7 @@
 		margin: 0px;
 	}
 
-	main {
+	header, main {
 		max-width: 800px;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -45,31 +54,6 @@
 
 	.button-div {
 		padding: 10px 0px;
-	}
-
-	/* shoelace light button */
-	.sl-blue-button::part(base) {
-		background: rgba(0, 195, 255, 0.3);
-		border: solid 2px rgba(0, 195, 255, 1);
-		font-weight: 700;
-	}
-
-	.sl-blue-button::part(base):hover {
-		background: rgba(0, 195, 255, 0.4);
-	}
-
-	.sl-blue-button::part(base):active {
-		background: rgba(0, 195, 255, 0.2);
-	}
-
-	.sl-blue-button::part(base):focus {
-		box-shadow: 0 0 0 3px rgba(0, 195, 255, 0.33);
-	}
-
-	.sl-blue-button::part(label) {
-		font-family: 'Lato', sans-serif;
-		color: rgb(255, 255, 255);
-		font-size: 20px;
 	}
 
 	/* shoelace red button */
@@ -99,21 +83,5 @@
 
 	.bold_warning {
 		color: #ffa0e1;
-	}
-
-	a.inline {
-		background-color: #000000;
-	}
-	a.inline:link {
-		color: #66d9ff;
-	}
-	a.inline:visited {
-		color: #ffe066;
-	}
-	a.inline:hover {
-		color: #99e6ff;
-	}
-	a.inline:active {
-		color: #99e6ff;
 	}
 </style>
