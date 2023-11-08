@@ -1,10 +1,10 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 	export let data;
 </script>
 
-<Seo
+<SeoTc
 	title="'s High School Career"
 	description="This is Mike Tarpey's high school career page, featuring all of his accomplishments as a member of Landstown High School's Class of 2010."
 />

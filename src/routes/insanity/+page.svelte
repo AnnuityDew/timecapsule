@@ -1,6 +1,6 @@
 <script>
 	import NavOne from '$lib/deep/NavOne.svelte';
-	import Seo from '$lib/deep/SeoDeep.svelte';
+	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 
 	//Trembling message script- ' Dynamic Drive (www.dynamicdrive.com)
 	//For full source code, 100's more DHTML scripts, and TOS,
@@ -282,7 +282,7 @@
 	// scriptTwo();
 </script>
 
-<Seo title="Mr. Man Careers - The Page of Insanity" description="" />
+<SeoDeep title="Mr. Man Careers - The Page of Insanity" description="" />
 <div class="page-style" id="insanity-page-style">
 	<NavOne />
 	<main>

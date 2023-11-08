@@ -1,9 +1,9 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s AP Argumentative Essay"
 	description="This is Mike Tarpey's AP Argument submitted to College Board through the AP English Language and Composition exam in the 2009 exam year."
 />

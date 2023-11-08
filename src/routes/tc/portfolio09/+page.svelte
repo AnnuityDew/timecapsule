@@ -1,9 +1,9 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s High School Junior English Digital Portfolio"
 	description="This is Mike Tarpey's Junior English Digital Portfolio for the 2008-09 school year at Landstown High School."
 />

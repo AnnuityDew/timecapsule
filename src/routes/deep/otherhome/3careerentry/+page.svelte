@@ -1,10 +1,10 @@
 <script>
 	import NavTwo from '$lib/deep/NavTwo.svelte';
 
-	import Seo from '$lib/deep/SeoDeep.svelte';
+	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 </script>
 
-<Seo title="Mr. Man Inc. - 3 Career Website" description="" />
+<SeoDeep title="Mr. Man Inc. - 3 Career Website" description="" />
 <main>
 	<NavTwo />
 	<hr />

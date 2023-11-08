@@ -1,8 +1,8 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s Index"
 	description="The official home page of Mike Tarpey, Senior at the University of Connecticut."
 />

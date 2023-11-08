@@ -1,9 +1,9 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s High School Java Projects"
 	description="These are all of Mike Tarpey's projects from his class in AP Computer Science during the 2008-09 school year."
 />

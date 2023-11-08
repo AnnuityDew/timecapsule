@@ -1,9 +1,9 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 	import Header from '$lib/tc/Header.svelte';
 </script>
 
-<Seo title="'s Favorite Apps" description="The apps most frequently used by Mike Tarpey." />
+<SeoTc title="'s Favorite Apps" description="The apps most frequently used by Mike Tarpey." />
 <Header text="My Favorite Apps" />
 
 <main>

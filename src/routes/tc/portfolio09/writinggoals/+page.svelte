@@ -1,8 +1,8 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s Writing Goals"
 	description="These are Mike Tarpey's Writing Goals for the 2008-09 school year at Landstown High School."
 />

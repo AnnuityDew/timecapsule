@@ -10,11 +10,11 @@
 {% block header %}-->
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 	import Nav from '$lib/tc/Nav.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s Projects"
 	description="The official home page of Mike Tarpey, UConn graduate & actuary in training."
 />

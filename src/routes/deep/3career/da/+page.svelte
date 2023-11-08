@@ -1,19 +1,9 @@
-<!-- {% extends 'tcdbase1.html' %}
-
-{% block title %}{% endblock %}
-
-{% block header %}<h1></h1>
-<img src="{{ url_for('static', path='timecapsuledeep/images/starword.gif') }}">
-{% endblock %}
-
-{% block content %} -->
-
 <script>
 	import HeaderOne from '$lib/deep/HeaderOne.svelte';
-	import Seo from '$lib/deep/SeoDeep.svelte';
+	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 </script>
 
-<Seo title="Mr. Man Careers - Database Administrator" description="" />
+<SeoDeep title="Mr. Man Careers - Database Administrator" description="" />
 <HeaderOne text="Database Administrator" imgfile="StarWord.gif" />
 <main>
 	<p>

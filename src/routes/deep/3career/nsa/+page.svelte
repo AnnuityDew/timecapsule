@@ -1,9 +1,9 @@
 <script>
 	import HeaderOne from '$lib/deep/HeaderOne.svelte';
-	import Seo from '$lib/deep/SeoDeep.svelte';
+	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 </script>
 
-<Seo title="Mr. Man Careers - Network Systems Analysts" description="" />
+<SeoDeep title="Mr. Man Careers - Network Systems Analysts" description="" />
 <HeaderOne text="Network Systems Analyst" imgfile="SpinStar.gif" />
 <main>
 	<p>

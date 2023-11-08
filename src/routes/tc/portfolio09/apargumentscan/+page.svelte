@@ -1,8 +1,8 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s AP Argumentative Essay"
 	description="This is the page featuring the scan of the AP Argument featured in Mike Tarpey's Junior English Digital Portfolio."
 />

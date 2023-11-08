@@ -1,8 +1,8 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s College Degree"
 	description="This is Mike Tarpey's College Degree, awarded by the University of Connecticut via mail in February 2014."
 />

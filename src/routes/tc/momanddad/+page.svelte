@@ -1,9 +1,9 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s Mom & Dad"
 	description="This is the memorial page for the parents of Mike Tarpey, who both passed away during the course of high school's senior year."
 />

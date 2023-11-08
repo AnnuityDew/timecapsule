@@ -2,10 +2,10 @@
 	import HeaderTwo from '$lib/deep/HeaderTwo.svelte';
 	import NavTwo from '$lib/deep/NavTwo.svelte';
 
-	import Seo from '$lib/deep/SeoDeep.svelte';
+	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 </script>
 
-<Seo title="Mr. Man Inc. - StepMania" description="" />
+<SeoDeep title="Mr. Man Inc. - StepMania" description="" />
 <HeaderTwo text={'StepMania'} subtext={['The coolest simulation...ever']} />
 <main>
 	<NavTwo />

@@ -1,9 +1,9 @@
 <script>
 	import Header from '$lib/tc/Header.svelte';
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title=""
 	description="The official home page of Mike Tarpey, UConn graduate & actuary in training."
 />

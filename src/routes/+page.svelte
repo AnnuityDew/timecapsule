@@ -1,8 +1,8 @@
 <script>
-	import Seo from '$lib/tc/SeoTc.svelte';
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
-<Seo
+<SeoTc
 	title="'s time capsule"
 	description="Mike Tarpey's website time capsule.
 	The site has changed a lot throughout the years...pages from the past
