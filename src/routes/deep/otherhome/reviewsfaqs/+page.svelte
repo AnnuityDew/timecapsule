@@ -3,7 +3,7 @@
 	import NavTwo from '$lib/deep/NavTwo.svelte';
 
 	import Seo from '$lib/deep/Seo.svelte';
-</script>
+</script>$lib/deep/SEO.svelte
 
 <Seo title="Mr. Man Inc. - Reviews & FAQs" description="" />
 <HeaderTwo text={'Reviews & FAQs'} subtext={['They might help someone...maybe']} />

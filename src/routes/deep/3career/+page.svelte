@@ -1,6 +1,6 @@
 <script>
 	import HeaderOne from '$lib/deep/HeaderOne.svelte';
-	import Seo from '$lib/deep/Seo.svelte';
+	import Seo from '$lib/deep/SEO.svelte';
 </script>
 
 <Seo title="Mr. Man Careers - Wow, I can put words up here!" description="" />

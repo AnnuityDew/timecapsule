@@ -1,6 +1,6 @@
 <script>
 	import NavOne from '$lib/deep/NavOne.svelte';
-	import Seo from '$lib/deep/Seo.svelte';
+	import Seo from '$lib/deep/SEO.svelte';
 
 	//Trembling message script- ' Dynamic Drive (www.dynamicdrive.com)
 	//For full source code, 100's more DHTML scripts, and TOS,
