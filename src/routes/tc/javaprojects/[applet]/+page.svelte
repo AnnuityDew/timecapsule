@@ -10,8 +10,8 @@
 />
 <main>
 	<p>
-		The {data.appletName} applet would be showing here, but the applet tag is unfortunately dead in HTML5. RIP!
+		The {data.appletName} applet would be showing here, but the applet tag is unfortunately dead in HTML5.
+		RIP!
 	</p>
-    <applet code="/timecapsule/applets/{data.appletFile}" width=500 height=500></applet>
+	<applet code="/timecapsule/applets/{data.appletFile}" width="500" height="500" />
 </main>
-
