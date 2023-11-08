@@ -1,5 +1,5 @@
 <script>
-	import Seo from '$lib/tc/Seo.svelte';
+	import Seo from "$lib/tc/Seo.svelte";
 </script>
 
 <Seo
