@@ -1,5 +1,5 @@
 <script>
-	import SeoTc from "$lib/tc/SeoTc.svelte";
+	import SeoTc from '$lib/tc/SeoTc.svelte';
 </script>
 
 <SeoTc

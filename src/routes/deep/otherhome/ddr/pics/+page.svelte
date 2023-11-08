@@ -4,6 +4,7 @@
 
 	import SeoDeep from '$lib/deep/SeoDeep.svelte';
 </script>
+
 <SeoDeep title="Mr. Man Inc. - Dance Dance Revolution" description="" />
 <HeaderTwo text={'Dance Dance Revolution'} subtext={['DDR, MAX...Two!!!']} />
 <main>

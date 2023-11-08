@@ -26,3 +26,4 @@ Time capsule for miketarpey.com. We've come a long way since 2006...
 - SEOally
 - HTTP redirect loop!? https://developers.cloudflare.com/ssl/troubleshooting/too-many-redirects/#encryption-mode-misconfigurations
 - Prevent bounce with [this](https://stackoverflow.com/questions/29894997/prevent-ios-bounce-without-disabling-scroll-ability) and [this](https://stackoverflow.com/questions/32500876/how-to-prevent-white-space-bounce-after-scrolling-to-the-top-of-the-page-and-t)
+- TODO analytics? html lang? hourglass favicon? remaining templates need a home
