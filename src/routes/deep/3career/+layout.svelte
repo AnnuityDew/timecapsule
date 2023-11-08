@@ -148,12 +148,12 @@
 		</table>
 	</nav>
 	<p>
-		Credit to <a href="http://www.dynamicdrive.com">Dynamic Drive</a>
+		Credit to <a href="https://www.dynamicdrive.com">Dynamic Drive</a>
 		for the cool mouse ball chain on The Page of Insanity. Thanks a lot, DD!
 	</p>
 
 	<p>
-		Also, thanks to <a href="http://www.astronomy.swin.edu.au/~pbourke/fractals/">
+		Also, thanks to <a href="https://www.astronomy.swin.edu.au/~pbourke/fractals/">
 			Fractals, Chaos</a
 		> for the background of The Page of Insanity.
 	</p>

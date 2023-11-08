@@ -39,10 +39,10 @@
 
 	<p>
 		<b><u>Professional Career</u></b><br />
-		-Senior Health & Benefits Actuarial Analyst at <a href="http://www.mercer.com/">Mercer</a> since
+		-Senior Health & Benefits Actuarial Analyst at <a href="https://www.mercer.com/">Mercer</a> since
 		October 20th, 2014<br />
 		-Previous roles:<br />
-		&#160;+Shift Lead at <a href="http://www.walgreens.com">Walgreens</a> (March 4th, 2014 - October
+		&#160;+Shift Lead at <a href="https://www.walgreens.com">Walgreens</a> (March 4th, 2014 - October
 		10th, 2014)<br />
 		&#160;+Photo Specialist at Walgreens (February 9th, 2010 - March 3rd, 2014)<br />
 		&#160;+Service Clerk at Walgreens (July 10th, 2009 - February 8th, 2010)<br />
@@ -51,7 +51,7 @@
 	<p>
 		<b><u>Student Career</u></b><br />
 		-<a href="/tc/uconndiploma">Bachelor of Arts in Actuarial Science</a> from the
-		<a href="http://www.uconn.edu/">University of Connecticut</a><br />
+		<a href="https://www.uconn.edu/">University of Connecticut</a><br />
 		-<a href="/tc/mths">Landstown High School, 9th-12th grade</a><br />
 		-Landstown Middle School, 8th grade<br />
 		-Silver Sands Middle School, 6th-7th grade<br />

@@ -12,7 +12,7 @@
 	Dance Dance Revolution. The coolest, healthiest video game ever to grace Earth. No, you don't use
 	your thumbs (unless you're lazy :). You actually use your feet to hit arrows on a pad. You hit the
 	arrow that is lined up with the outline on the screen. No idea what I'm talking about? Then check
-	out <a href="http://www.ddrfreak.com">DDR Freak</a>. They have a much better site than mine. I'll
+	out <a href="https://www.ddrfreak.com">DDR Freak</a>. They have a much better site than mine. I'll
 	be posting here a lot with my new pictures and resources, so check back often!
 </p>
 

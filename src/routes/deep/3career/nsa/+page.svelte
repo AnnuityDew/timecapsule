@@ -44,5 +44,5 @@
 	skyrocket by 55%! (In other words, 126,200 new jobs.)
 </p>
 
-For this job, you can try<a href="http://www.acinet.org/">Career InfoNet</a> (again) and
-<a href="http://univsource.com/">UnivSource.</a>
+For this job, you can try<a href="https://www.acinet.org/">Career InfoNet</a> (again) and
+<a href="https://univsource.com/">UnivSource.</a>

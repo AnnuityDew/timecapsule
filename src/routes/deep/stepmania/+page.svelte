@@ -9,8 +9,8 @@
 {% block content %} -->
 
 <p>
-	<a href="http://www.stepmaniaonline.com/index.php?mod=Stepmania+Online&player=FFMMCLXIV">
-		<img src="http://esoteriq.org/statfx/FFMMCLXIV.png" /></a
+	<a href="https://www.stepmaniaonline.com/index.php?mod=Stepmania+Online&player=FFMMCLXIV">
+		<img src="https://esoteriq.org/statfx/FFMMCLXIV.png" /></a
 	>
 </p>
 

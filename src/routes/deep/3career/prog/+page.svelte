@@ -44,5 +44,5 @@
 </p>
 
 <p>
-	For more information about this job, try <a href="http://www.acinet.org">Career InfoNet.</a>
+	For more information about this job, try <a href="https://www.acinet.org">Career InfoNet.</a>
 </p>

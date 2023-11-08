@@ -31,7 +31,7 @@
 	-AP Microeconomics (1 year, 4 - Well Qualified)<br />
 	-Japanese Language (4 years)<br />
 	-<a href="/tc/portfolio07">Freshman English Digital Portfolio</a><br />
-	-<a href="http://oddfod.net/portfolio/2008/4B/92/">Sophomore English Digital Portfolio</a><br />
+	-<a href="https://oddfod.net/portfolio/2008/4B/92/">Sophomore English Digital Portfolio</a><br />
 	-<a href="/tc/portfolio09">Junior English Digital Portfolio</a><br />
 	-<a href="/tc/portfolio10">Senior English Digital Portfolio</a><br />
 </p>

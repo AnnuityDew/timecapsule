@@ -17,27 +17,27 @@
 <table>
 	<tr>
 		<td>
-			<a href="http://www.ddrfreak.com">DDR Freak</a> - I already told you about this one.
+			<a href="https://www.ddrfreak.com">DDR Freak</a> - I already told you about this one.
 		</td>
 	</tr>
 
 	<tr>
 		<td>
-			<a href="http://www.ddruk.com">DDR UK</a> - This is a great site for official DDR stepfiles for
+			<a href="https://www.ddruk.com">DDR UK</a> - This is a great site for official DDR stepfiles for
 			StepMania. (And if you're interested in the European version of DDR.)
 		</td>
 	</tr>
 
 	<tr>
 		<td>
-			<a href="http://www.ddrecall.com">DDRecall</a> - Play at the arcade? Post your scores here and
+			<a href="https://www.ddrecall.com">DDRecall</a> - Play at the arcade? Post your scores here and
 			compare to the world!
 		</td>
 	</tr>
 
 	<tr>
 		<td>
-			<a href="http://www.ddrhometracker.com">DDR Home Tracker</a> - The home version equivalent of DDRecall.
+			<a href="https://www.ddrhometracker.com">DDR Home Tracker</a> - The home version equivalent of DDRecall.
 		</td>
 	</tr>
 </table>

@@ -51,8 +51,8 @@
 
 	<p>
 		<b><u>Other Projects</u></b><br />
-		<a href="http://www.youtube.com/watch?v=8OtRGGm1WsM">Mr. Forbidden: The Movie</a><br />
-		<a href="http://www.youtube.com/watch?v=Qty7NPrnScA">Dracula Book Talk</a><br />
-		<a href="http://www.youtube.com/watch?v=j-N1vizingw">Dracula Book Talk Bloopers</a><br />
+		<a href="https://www.youtube.com/watch?v=8OtRGGm1WsM">Mr. Forbidden: The Movie</a><br />
+		<a href="https://www.youtube.com/watch?v=Qty7NPrnScA">Dracula Book Talk</a><br />
+		<a href="https://www.youtube.com/watch?v=j-N1vizingw">Dracula Book Talk Bloopers</a><br />
 	</p>
 </main>

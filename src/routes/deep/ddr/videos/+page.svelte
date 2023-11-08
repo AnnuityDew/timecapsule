@@ -15,5 +15,5 @@
 <p>...A gray rock. :)</p>
 
 <p>
-	<a href="http://youtube.com/profile_videos?user=MasterDDR21">Watch my DDR videos!</a>
+	<a href="https://youtube.com/profile_videos?user=MasterDDR21">Watch my DDR videos!</a>
 </p>

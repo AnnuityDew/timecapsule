@@ -51,16 +51,16 @@
 
 <p>
 	<b><u>Other Projects</u></b><br />
-	<a href="http://www.youtube.com/watch?v=tceSGouC1Bc"
+	<a href="https://www.youtube.com/watch?v=tceSGouC1Bc"
 		>Conversational Roundtable: A Socratic Dialogue</a
 	><br />
-	<a href="http://www.youtube.com/watch?v=NSv-ZiKMaEY"
+	<a href="https://www.youtube.com/watch?v=NSv-ZiKMaEY"
 		>Conversational Roundtable: A Socratic Dialogue...of bloopers</a
 	><br />
-	<a href="http://www.youtube.com/watch?v=j35vDaj3lI8">Giovanni's Bike Shop</a><br />
-	<a href="http://www.youtube.com/watch?v=S1MC5G9PkUg">Giovanni's Bike Shop: The Aftermath</a><br />
-	<a href="http://www.youtube.com/watch?v=d6U_ZWSUJ_o">Giovanni's Blooper Shop</a><br />
-	<a href="http://www.youtube.com/watch?v=EIxhSM3RXq4">Joe's Monologue</a><br />
+	<a href="https://www.youtube.com/watch?v=j35vDaj3lI8">Giovanni's Bike Shop</a><br />
+	<a href="https://www.youtube.com/watch?v=S1MC5G9PkUg">Giovanni's Bike Shop: The Aftermath</a><br />
+	<a href="https://www.youtube.com/watch?v=d6U_ZWSUJ_o">Giovanni's Blooper Shop</a><br />
+	<a href="https://www.youtube.com/watch?v=EIxhSM3RXq4">Joe's Monologue</a><br />
 </p>
 
 <p>

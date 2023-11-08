@@ -16,7 +16,7 @@
 	<left>
 		<div id="business" style="width:256px;float:left;">
 			<u>Business</u><br />
-			<a href="http://inbox.google.com">Inbox</a><br />
+			<a href="https://inbox.google.com">Inbox</a><br />
 			<a href="https://mail.engr.uconn.edu/owa/">UConn ETS Mail</a><br />
 			<a href="https://www.creditkarma.com/profile/user/info/name/annuitydew">Credit Karma</a><br />
 			<a href="https://faxzero.com/">FaxZero</a><br />
@@ -25,51 +25,51 @@
 
 	<div id="play" style="width:256px;float:left;">
 		<u>Entertainment</u><br />
-		<a href="http://www.reddit.com">reddit</a><br />
-		<a href="http://www.penny-arcade.com/comic">Penny Arcade</a><br />
-		<a href="http://questionablecontent.net/">Questionable Content</a><br />
-		<a href="http://shirt.woot.com/">Shirt.Woot</a><br />
-		<a href="http://www.smbc-comics.com/">SMBC Comics</a><br />
-		<a href="http://www.toothpastefordinner.com/">Toothpaste for Dinner</a><br />
-		<a href="http://www.woot.com/">Woot</a><br />
-		<a href="http://xkcd.com/">xkcd</a><br />
-		<a href="http://walgreens.corporateperks.com/">Corporate Perks</a><br />
+		<a href="https://www.reddit.com">reddit</a><br />
+		<a href="https://www.penny-arcade.com/comic">Penny Arcade</a><br />
+		<a href="https://questionablecontent.net/">Questionable Content</a><br />
+		<a href="https://shirt.woot.com/">Shirt.Woot</a><br />
+		<a href="https://www.smbc-comics.com/">SMBC Comics</a><br />
+		<a href="https://www.toothpastefordinner.com/">Toothpaste for Dinner</a><br />
+		<a href="https://www.woot.com/">Woot</a><br />
+		<a href="https://xkcd.com/">xkcd</a><br />
+		<a href="https://walgreens.corporateperks.com/">Corporate Perks</a><br />
 		<a href="https://club.nintendo.com/">Club Nintendo</a><br />
-		<a href="http://zenius-i-vanisher.com/v5.2/index.php">Zenius-I-Vanisher</a><br />
+		<a href="https://zenius-i-vanisher.com/v5.2/index.php">Zenius-I-Vanisher</a><br />
 	</div>
 
 	<div id="university" style="width:256px;float:left;">
 		<u>Education</u><br />
-		<a href="http://huskyct.uconn.edu">HuskyCT</a><br />
-		<a href="http://go.uconn.edu/">Go UConn!</a><br />
-		<a href="http://www.coachingactuaries.com/home.aspx">Coaching Actuaries</a><br />
-		<a href="http://ets.engr.uconn.edu/">UConn ETS</a><br />
-		<a href="http://www.engr.uconn.edu/~mpt09004/">Engineering Webspace</a><br />
-		<a href="http://godaddy.com">GoDaddy</a><br />
+		<a href="https://huskyct.uconn.edu">HuskyCT</a><br />
+		<a href="https://go.uconn.edu/">Go UConn!</a><br />
+		<a href="https://www.coachingactuaries.com/home.aspx">Coaching Actuaries</a><br />
+		<a href="https://ets.engr.uconn.edu/">UConn ETS</a><br />
+		<a href="https://www.engr.uconn.edu/~mpt09004/">Engineering Webspace</a><br />
+		<a href="https://godaddy.com">GoDaddy</a><br />
 		<a href="https://www.dreamspark.com/student/Software-Catalog.aspx">Microsoft DreamSpark</a><br
 		/>
-		<a href="http://www.microsoftvirtualacademy.com/">Microsoft Virtual Academy</a><br />
-		<a href="http://www.microsoftvirtualacademy.com/ebooks">Microsoft Press</a><br />
+		<a href="https://www.microsoftvirtualacademy.com/">Microsoft Virtual Academy</a><br />
+		<a href="https://www.microsoftvirtualacademy.com/ebooks">Microsoft Press</a><br />
 		<a href="https://www.microsoft.com/learning/en-us/certification-overview.aspx"
 			>Microsoft Certifications</a
 		><br />
-		<a href="http://www.logicalincrements.com/">Logical Increments</a><br />
+		<a href="https://www.logicalincrements.com/">Logical Increments</a><br />
 	</div>
 
 	<div id="health-contact" style="width:412px;float:left;">
 		<u>Health</u><br />
-		<a href="http://www.myfitnesspal.com/annuitydew">MyFitnessPal</a><br />
+		<a href="https://www.myfitnesspal.com/annuitydew">MyFitnessPal</a><br />
 		<a href="https://www.walgreens.com/steps/stepslanding.jsp">Steps with Balance Rewards</a><br />
 		<p>
 			<u>Network</u><br />
 			<a href="/tc">michaeltarpey.com</a><br />
-			<a href="http://www.twitter.com/AnnuityDew">Twitter</a><br />
+			<a href="https://www.twitter.com/AnnuityDew">Twitter</a><br />
 			<a href="https://www.kickstarter.com/profile/annuitydew">Kickstarter</a><br />
-			<a href="http://www.twitch.tv/annuitydew/profile">twitch</a><br />
-			<a href="http://www.youtube.com/user/annuitydew">YouTube</a><br />
-			<a href="http://instagram.com/annuitydew">Instagram</a><br />
-			<a href="http://steamcommunity.com/id/annuitydew/">Steam</a><br />
-			<a href="http://3ds.pokemon-gl.com/user/H-547-5474-D/profile/">Pokemon GlobalLink</a><br />
+			<a href="https://www.twitch.tv/annuitydew/profile">twitch</a><br />
+			<a href="https://www.youtube.com/user/annuitydew">YouTube</a><br />
+			<a href="https://instagram.com/annuitydew">Instagram</a><br />
+			<a href="https://steamcommunity.com/id/annuitydew/">Steam</a><br />
+			<a href="https://3ds.pokemon-gl.com/user/H-547-5474-D/profile/">Pokemon GlobalLink</a><br />
 		</p>
 	</div>
 </div>
@@ -78,10 +78,10 @@
 	<div style="float: left; text-align: center; width: 140px">
 		<img
 			style="border: 0; width: 150px"
-			src="http://content.ibuypower.com/Images/Components/5708/A31-b-main.png"
+			src="https://content.ibuypower.com/Images/Components/5708/A31-b-main.png"
 		/>
-		<a href="http://www.ibuypower.com" target="_blank">
-			<img style="border: 0" src="http://content.ibuypower.com/Images/Store/eLogo.gif" /></a
+		<a href="https://www.ibuypower.com" target="_blank">
+			<img style="border: 0" src="https://content.ibuypower.com/Images/Store/eLogo.gif" /></a
 		>
 	</div>
 	<div>
@@ -97,5 +97,5 @@
 </div>
 
 <div id="backloggery">
-	<a href="http://backloggery.com/DHusky"><img src="http://backloggery.com/dhusky/sig.gif" /></a>
+	<a href="https://backloggery.com/DHusky"><img src="https://backloggery.com/dhusky/sig.gif" /></a>
 </div>

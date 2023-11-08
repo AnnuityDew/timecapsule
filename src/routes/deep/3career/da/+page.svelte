@@ -45,6 +45,6 @@
 
 <p>
 	And the two sites I used to research this job are
-	<a href="http://www.acinet.org/">Career InfoNet</a> (yet again) and
-	<a href="http://www.vault.com/">Vault</a>.
+	<a href="https://www.acinet.org/">Career InfoNet</a> (yet again) and
+	<a href="https://www.vault.com/">Vault</a>.
 </p>

@@ -28,13 +28,13 @@
 	<a href="/timecapsule/2007portfolio/biopoem.doc">Biopoem</a><br />
 	<a href="/timecapsule/2007portfolio/whereimfrom.doc">Where I'm From</a><br />
 	<a href="/timecapsule/2007portfolio/narrative.doc">Narrative</a><br />
-	<a href="http://www.youtube.com/watch?v=PWKxHCeBqZk"
+	<a href="https://www.youtube.com/watch?v=PWKxHCeBqZk"
 		>Genre Pageant: Nonfiction (feat. Nikko Tanap)</a
 	><br />
 	<a href="/timecapsule/2007portfolio/oedipusrexpaper.doc">The Tragic Flaws of Oedipus Rex</a><br />
 	<a href="/timecapsule/2007portfolio/anthemessay.doc"><i>Anthem</i> Essay</a><br />
 	<a href="/timecapsule/2007portfolio/milesdavis.ppt">Power Point Project: Miles Davis</a><br />
-	<a href="http://www.youtube.com/watch?v=pTar682P5Nk"
+	<a href="https://www.youtube.com/watch?v=pTar682P5Nk"
 		><i>A Night to Remember</i> (courtesy of MTJ Productions)</a
 	><br />
 	<a href="/timecapsule/2007portfolio/writingmap.jpg">Writing Map</a><br />
