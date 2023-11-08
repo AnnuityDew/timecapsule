@@ -3,7 +3,7 @@
 	import Seo from '$lib/deep/SeoDeep.svelte';
 </script>
 
-<Seo title="Mr. Ma$lib/deep/SEO.svelteSystems Analysts" description="" />
+<Seo title="Mr. Man Careers - Network Systems Analysts" description="" />
 <HeaderOne text="Network Systems Analyst" imgfile="SpinStar.gif" />
 <main>
 	<p>

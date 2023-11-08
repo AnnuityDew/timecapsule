@@ -2,7 +2,7 @@
 	import NavTwo from '$lib/deep/NavTwo.svelte';
 
 	import Seo from '$lib/deep/SeoDeep.svelte';
-</script>$lib/deep/SEO.svelte
+</script>
 
 <Seo title="Mr. Man Inc. - 3 Career Website" description="" />
 <main>

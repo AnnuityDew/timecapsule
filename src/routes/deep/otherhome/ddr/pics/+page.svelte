@@ -4,7 +4,6 @@
 
 	import Seo from '$lib/deep/SeoDeep.svelte';
 </script>
-$lib/deep/SEO.svelte
 <Seo title="Mr. Man Inc. - Dance Dance Revolution" description="" />
 <HeaderTwo text={'Dance Dance Revolution'} subtext={['DDR, MAX...Two!!!']} />
 <main>
